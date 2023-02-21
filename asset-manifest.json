@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/user_posts_app/static/css/main.37103ca8.css",
+    "main.js": "/user_posts_app/static/js/main.8beb6531.js",
+    "index.html": "/user_posts_app/index.html",
+    "main.37103ca8.css.map": "/user_posts_app/static/css/main.37103ca8.css.map",
+    "main.8beb6531.js.map": "/user_posts_app/static/js/main.8beb6531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37103ca8.css",
+    "static/js/main.8beb6531.js"
+  ]
+}
