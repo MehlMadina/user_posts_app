@@ -42,6 +42,7 @@
     text-transform: uppercase;
     outline: none;
     color: #808080;
+    text-align: center;
 }
 
 .form button {
