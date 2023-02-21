@@ -1,0 +1,20 @@
+.male_container {
+    background-color: white;
+    margin: 15px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin: 10px;
+}
+
+.title {
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    font-size: 18px;
+}
